@@ -2,3 +2,6 @@
 A c++ project using good old turbo c++ compiler and graphics.h library to generate custom bar graphs and line graphs
 
 
+<b>EDITZ<b>
+<br>
+This was my class 12 project. The beginning stage of my programming journey. So code might not be that professional.
